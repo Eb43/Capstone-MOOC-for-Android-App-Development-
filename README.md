@@ -1,5 +1,5 @@
-# Favorite Sites Quick Access App Capstone-MOOC-for-Android-App-Development
-=============================
+# Favorite Sites Quick Access App | Capstone-MOOC-for-Android-App-Development
+
 
 Description
 ------------
