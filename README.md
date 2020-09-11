@@ -1,8 +1,8 @@
-# Favorite Sites Quick Access App | Capstone-MOOC-for-Android-App-Development
+# Favorite Sites Quick Access App | Capstone-MOOC-for-Android-App-Development Vanderbilt University course on Coursera
 
 
 Description
 ------------
 
-This is an app that allows user to create a buttons for quick access to his favorite web-sites. The app allows creating two buttons with URLs for user-chosen web-sites. 
+This is an app that allows user to get quick access to google.com and bing.com web-sites. 
 
